@@ -1,4 +1,4 @@
 # PROJETOS
 
 - Códigos em linguagem C;
-- HTML5/CSS;
+- HTML5/CSS3;
